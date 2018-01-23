@@ -22,7 +22,7 @@
 	box-sizing: border-box;
 }
 .nivo-lightbox-overlay.nivo-lightbox-open {
-	visibility: visible;
+	visibility: hidden;
 	opacity: 1;
 }
 .nivo-lightbox-wrap  {
@@ -46,11 +46,13 @@
 }
 .nivo-lightbox-nav { display: none; }
 .nivo-lightbox-prev {
+	visibility: hidden;
 	position: absolute;
 	top: 50%;
 	left: 0;
 }
 .nivo-lightbox-next {
+	visibility: hidden;
 	position: absolute;
 	top: 50%;
 	right: 0;
