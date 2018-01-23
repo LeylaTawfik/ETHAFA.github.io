@@ -101,11 +101,7 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/Texture.jpg",
-       "images/Texture2.jpg",
-       "images/Texture3.jpg",
-       "images/Texture4.jpg",
-       "images/Texture5.jpg",
+       "images/2.jpg",
         ],  {duration: 2000, fade: 750});
     });
   })
