@@ -492,7 +492,7 @@ a:focus {
 		height: 400px;
 }
 #video {
-	background: url('/Users/Leyla/Documents/LeylaTawfik.github.io/images/3.jpg') 50% 0 repeat-y fixed;
+	background: url('/images/3.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
